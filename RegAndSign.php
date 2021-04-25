@@ -31,7 +31,7 @@ session_start();
         <h5>Политика конфиденциальности</h5>
         <h5 class=""><a href="index.php" class="text-dark">На главную</a></h5>
     </div>
-	<?php } else {?>
+	<?php } else {?> 
     <div class="col-3 mt-5 radius mx-auto text-center bg-white shadow pb-2 pt-2 rounded">
         <h3 class="pb-4">Войти</h3>
         <form action="SignUser.php" method="post">
