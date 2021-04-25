@@ -25,4 +25,4 @@ if ($login == null || $pass == null) {
 		header("Location: RegAndSign.php? ide=".$ide."&bog=".$bog);
 	}
 }
-?>
+?> 
