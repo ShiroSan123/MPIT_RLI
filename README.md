@@ -9,4 +9,3 @@
 База данных: MySQL. 
 ***
 Языки программирования: PHP, HTML 4, JS, CSS.
-git checkout -b branch_name
