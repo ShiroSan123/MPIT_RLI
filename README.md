@@ -9,3 +9,7 @@
 База данных: MySQL. 
 ***
 Языки программирования: PHP, HTML 4, JS, CSS.
+***
+Хостинг: http://cn80552.tmweb.ru/index.php
+Login: cn80552_test
+Password: TESTING123
