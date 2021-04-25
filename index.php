@@ -93,7 +93,7 @@ $connect = mysqli_connect("127.0.0.1",root,"","MPIT_RLI");
 		<div class="row col-11 mx-auto pl-0 pr-0" style="padding-top: 2vw">
 			<div class="col-3 mx-auto" style="height: 16vw">
 				<h1 style="font-size: 2vw">Mentor</h1>
-				<p style="font-size: 1vw">Yakutsk</p>
+				<p style="font-size: 1vw">Yakutsk</p> 
 				<p style="font-size: 1vw">Russian Federation</p>
 				<p style="font-size: 1.2vw">Phone: <span style="font-size: 1vw">+7 (914) 276-75-20</span></p>
 				<p style="font-size: 1.2vw">Email: <span style="font-size: 1vw">minigames523@gmail.com</span></p>
