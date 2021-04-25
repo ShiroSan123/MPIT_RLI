@@ -8,7 +8,7 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 </head>
-<body>
+<body> 
     <div class="col-3 mt-5 radius mx-auto text-center bg-white shadow pb-2 pt-2 rounded">
         <h3 class="pb-4">Войти</h3>
         <form action="SignUser.php" method="post">
